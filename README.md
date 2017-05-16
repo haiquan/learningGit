@@ -3,4 +3,4 @@
 Welcome to Github!
 Add ssh key.
 
-Creating a new branch dev. Git is a free software.
+Creating a new branch dev. Maybe there is a bug in the branch master.
